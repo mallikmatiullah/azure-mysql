@@ -7,7 +7,7 @@ data:
   PHP_VERSION: "8.3"
   MAGENTO_PORT: "8080"
   MAGENTO_DATABASE_NAME: "magento"
-  MAGENTO_SEARCH_ENGINE: "elasticsearch7"
+  MAGENTO_SEARCH_ENGINE: "elasticsearch8"
   ELASTICSEARCH_HOST: elasticsearch-service.magento.svc.cluster.local
   ELASTICSEARCH_PORT: "9200"
   MAGENTO_ADMIN_FIRSTNAME: "Admin"
